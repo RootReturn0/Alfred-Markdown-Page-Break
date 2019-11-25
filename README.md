@@ -12,8 +12,14 @@ Enter `pb`, then press **Enter** to paste it on the most front App.
 
 ## Example
 
+### Use
+
 ![use](./img/eg1.png)
 
+### Before
+
 ![before](./img/before.png)
+
+### After
 
 ![after](./img/after.png)
